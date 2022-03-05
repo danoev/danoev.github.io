@@ -11539,11 +11539,7 @@ footer.footer .social-link:hover {
     font-size: 5.5rem;
   }
 }
-@media (min-width: 450px) {
-    .masthead {
-        min-height 10rem;
-    }
-}
+
 .portfolio-item {
   display: block;
   position: relative;
