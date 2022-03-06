@@ -11655,7 +11655,7 @@ footer.footer .social-link:hover {
     100%{background-position:0% 49%}
 }
 /* Personelle Card */
-/*.card-1 {
+.card-1 {
   padding: 0;
   border-radius: 10px;
   margin: 0 auto;
@@ -11724,9 +11724,9 @@ footer.footer .social-link:hover {
   font-size: 18px;
   text-align: center;
   line-height: 1.5;
-} */
-/* Name Card */
+}
 
+/* Name Card */
 @import url('https://fonts.googleapis.com/css?family=Abel');
 
 #team center #team .center{
