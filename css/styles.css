@@ -11364,7 +11364,7 @@ html {
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
   /*border-left: 1px solid rgba(81, 104, 216, 0.1);*/
-  background: linear-gradient(120deg, #5168d8, #6e69cd, #8a69c2, #bc668a);
+  background: radial-gradient(#5168d8, #6e69cd, #8a69c2, #bc668a);
   opacity: 90%;
   background-size: 300% 100%;
   box-shadow: 0px 0px 20px 1px rgba(0,0,0,0.4);
@@ -11908,4 +11908,4 @@ footer.footer .social-link:hover {
   bottom: 1rem;
   right: 1rem;
   font-size: 0.9em;
-}
+} */
